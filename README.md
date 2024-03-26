@@ -25,6 +25,7 @@ a. Python for data cleaning, preprocessing, model development, and deployment.
 b. Libraries such as Pandas, NumPy for data manipulation, Scikit learn for machine learning, and Keras for ANN. 
 c. Streamlit framework for deployment and Jupyter Notebook for interactive code execution and documentation.
 
+
+## Deployed Web App using Streamlit:
+
 ![Screenshot 2024-03-26 152422](https://github.com/Vinayakpatnaik/Customer-Churn-Prediction-in-Telecom-Sector-/assets/147463778/329963e8-9ebb-44c3-a7f8-1aea6fb191f3)
-
-
